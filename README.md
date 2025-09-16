@@ -1,5 +1,5 @@
 # StartSteamInSilentMode-BatchScript
-It's BatchScript for Init Steam in Silent Mode!!! Enjoy to use this!!!
+It's BatchScript for Starting Steam in Silent Mode!!! Enjoy to use this!!!
 
 ## Donations
 
